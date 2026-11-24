@@ -2,7 +2,7 @@
 
 int main() {
   int x,res=0,rem;
-  printf("Enter a 3 digit number: \n");
+  printf("Enter a 3 digit positive number: \n");
   scanf("%d", &x);
 
   while (x != 0) {
